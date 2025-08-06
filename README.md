@@ -144,8 +144,7 @@ MoodBoard/
 
 ### Login/Register
 <img width="1110" height="602" alt="Screenshot 2025-08-06 203607" src="https://github.com/user-attachments/assets/e88d2382-d492-4d34-b1ee-d23bd3f84c10" />
-<img width="1224" height="605" alt="Screenshot 2025-08-06 203553" src="https://github.com/user-attachments/assets/514eb70b-8225-4b09-b2bc-a807252cd23e" />
-
+<img width="1050" height="599" alt="Screenshot 2025-08-06 204115" src="https://github.com/user-attachments/assets/721a4386-40ed-4d8b-91da-837a5b924187" />
 
 ### Create MoodBoard 
 <img width="471" height="530" alt="Screenshot 2025-08-06 200449" src="https://github.com/user-attachments/assets/12d84a7e-a1b2-4c38-b03b-3f2f813d90c5" />
@@ -183,3 +182,4 @@ Created as a full-stack developer assignment showcasing MERN stack skills.
 
 
 **Note**: This is a demonstration project. For production use, ensure proper security measures, environment variables, and database optimization. 
+
